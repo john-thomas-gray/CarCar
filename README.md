@@ -219,9 +219,6 @@ The purpose of the sales microservice is to be able to make and list a customer,
 
 ## Service API * Port (8080) project-beta-service-api
 
-Explain your models and integration with the inventory
-microservice, here.
-
 This microservice contains three models: Technician, Appointment and Automobile VO.
 
 This API gives the capability to get a list of instances of the Technician class, create
